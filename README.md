@@ -9,8 +9,8 @@ This project exists to be a social connector and repository of shared informatio
 ![ashtLogo4.png](ashtLogo4.png)
 * Our site logo (until one of us makes a better one!), created by [Elisa Beshero-Bondar](https://github.com/ebeshero) with Inkscape starting from Gregory Bondar's photo.
 
-## 🚧 
-We're working on a website that we can all contribute to! To help out in this space, you will [need a GitHub account](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github). 
+# 🚧 
+We're [working on a website](https://github.com/RustbeltDN/rustBeltDN) that we can all contribute to! To help out in this space, you will [need a GitHub account](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github). 
 (We'll post some instructions when we're ready!)
 
 
